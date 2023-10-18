@@ -5,11 +5,11 @@ Telegram bot with YT search and WeatherMapApi integration
 <br>
 Бот поддерживает 5 команд:<br>
 /start - регистрирует пользователя<br>
-![alt text](https://github.com/KeillsIDP/telegram-test-bot/blob/main/gitimg/bot_start.png?raw=true)
+![alt text](https://github.com/KeillsIDP/telegram-test-bot/blob/main/gitimg/bot_start.png?raw=true)<br>
 /help - показывает все доступные команды<br>
-![alt text](https://github.com/KeillsIDP/telegram-test-bot/blob/main/gitimg/bot_help.png?raw=true)
+![alt text](https://github.com/KeillsIDP/telegram-test-bot/blob/main/gitimg/bot_help.png?raw=true)<br>
 /yt - ждет передачи запроса для поиска видео<br>
-![alt text](https://github.com/KeillsIDP/telegram-test-bot/blob/main/gitimg/bot_youtube.png?raw=true)
+![alt text](https://github.com/KeillsIDP/telegram-test-bot/blob/main/gitimg/bot_youtube.png?raw=true)<br>
 /weather - ожидает геопозицию для которой требуется вывести данные о погоде<br>
-![alt text](https://github.com/KeillsIDP/telegram-test-bot/blob/main/gitimg/bot_weather.png?raw=true)
+![alt text](https://github.com/KeillsIDP/telegram-test-bot/blob/main/gitimg/bot_weather.png?raw=true)<br>
 /stop - не имеет никакого функционала<br>
